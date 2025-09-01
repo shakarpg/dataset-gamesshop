@@ -1,10 +1,6 @@
 # 💡 Prompts para Trabalhar com o Desafio de Análise de Vendas
 
-Aqui estão alguns prompts que podem ser utilizados para explorar,
-analisar e documentar os dados do desafio das plataformas **AliExpress,
-Etsy e Shopee**.
-
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 ## 📊 Exploração de Dados
 
