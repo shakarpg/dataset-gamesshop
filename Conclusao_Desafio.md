@@ -7,14 +7,14 @@ diferentes plataformas de e-commerce (**AliExpress, Etsy e Shopee**) em
 uma única base unificada. Esse processo envolveu:
 
 1.  **Importação e tratamento dos dados**
-    -   Padronização de colunas e tipos de dados.\
+    -   Padronização de colunas e tipos de dados.
     -   Remoção de inconsistências e valores ausentes.
 2.  **Análise exploratória**
-    -   Identificação dos produtos mais vendidos em cada país.\
-    -   Comparação entre plataformas de venda.\
+    -   Identificação dos produtos mais vendidos em cada país.
+    -   Comparação entre plataformas de venda.
     -   Geração de indicadores de volume de vendas e receita.
 3.  **Integração dos insights**
-    -   Consolidação em um arquivo único (`Meganium_Sales_data.xlsx`).\
+    -   Consolidação em um arquivo único (`Meganium_Sales_data.xlsx`).
     -   Organização dos resultados para facilitar consultas futuras.
 
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ decisão, reduzindo custos e maximizando lucros.
 
 ## 🚀 Próximos Passos
 
--   Implementar dashboards dinâmicos para visualização dos resultados.\
--   Criar modelos preditivos para antecipar tendências de vendas.\
+-   Implementar dashboards dinâmicos para visualização dos resultados.
+-   Criar modelos preditivos para antecipar tendências de vendas.
 -   Integrar essas análises em relatórios recorrentes para suporte à
     gestão.
